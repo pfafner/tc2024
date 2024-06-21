@@ -31,6 +31,8 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
 # Programa del curso
 <div id='id-programa'/>
 
+El programa del curso estará disponible en breve.
+
 
 ### Horario
 <div id='id-horario'/>
