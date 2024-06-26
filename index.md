@@ -37,7 +37,7 @@ El programa del curso estará disponible en breve.
 ### Horario
 <div id='id-horario'/>
 
-* Lunes de 19:00 a 21:25 TBA, y Miércoles de 19:00 a 20:35 TBA.
+* Lunes de 17:20 a 19:40 G-205, y Miércoles de 19:00 a 20:35 G-205.
 
 ### Office Hours
 <div id='id-office'/>
