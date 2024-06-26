@@ -49,7 +49,7 @@ El programa del curso estará disponible en breve.
 
 **No.**  | **Fecha**    | **Tópicos**                                                               | **Recursos**
 -------- | ------------ | ------------------------------------------------------------------------- |  ---------------
-.        | 02.07.2024   | Inicio del curso.  | 
+.        | 03.07.2024   | Inicio del curso.  | 
 
 
 # Proyectos
