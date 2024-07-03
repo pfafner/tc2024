@@ -1,10 +1,5 @@
 # Teoría de la Computación 2024
 
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Warning_icon.svg/1200px-Warning_icon.svg.png" alt="" width="100"/>
-
-Sitio en construcción!   
-
 Este es un curso introductorio a la teoría de la computación, la cual se ocupa de determinar cuáles problemas pueden ser resueltos computacionalmente y con qué eficiencia, así como de entender el límite entre los problemas computables y los no-computables, y clasificarlos de acuerdo a su simpleza o dificultad.  
 
 El curso inicia con el estudio de distintos modelos de cómputo, como los autómatas finitos (que son los más sencillos), y sus diferentes tipos y aplicaciones; las máquinas de Turing (que son las computadoras usuales de hoy en día) y las computadoras cuánticas (cuyo funcionamiento no es digital). Una vez formulado un modelo de computación, nos interesa conocer la cantidad de recursos computacionales que es necesario utilizar para resolver un problema. El primero de estos recursos es el tiempo: cuántos pasos o cuántas acciones debemos realizar para resolver el problema. También son importantes el espacio ocupado, la necesidad de utilizar una fuente de números aleatorios, la posibilidad de resolver subproblemas en paralelo, entre otros.
@@ -29,7 +24,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
 # Programa del curso
 <div id='id-programa'/>
 
-El programa del curso estará disponible en breve.
+[Programa del curso](programa/Programa-tc2024.pdf){:target="_blank"}
 
 
 ### Horario
@@ -47,7 +42,7 @@ El programa del curso estará disponible en breve.
 
 **No.**  | **Fecha**    | **Tópicos**                                                               | **Recursos**
 -------- | ------------ | ------------------------------------------------------------------------- |  ---------------
-.        | 03.07.2024   | Inicio del curso.  | 
+01       | 03.07.2024   | Inicio del curso.  | 
 
 
 # Proyectos
