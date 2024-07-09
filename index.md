@@ -42,8 +42,8 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
 
 **No.**  | **Fecha**    | **Tópicos**                                                               | **Recursos**
 -------- | ------------ | ------------------------------------------------------------------------- |  ---------------
-01       | 03.07.2024   | Introducción al curso. Aspectos generales de la teoría de la computación. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 1.1 
-02       | 08.07.2024   | Autómatas finitos. |  
+01       | 03.07.2024   | Introducción al curso. Aspectos generales de la teoría de la computación. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | Hopcroft-Ullman, sección 1.1 
+02       | 08.07.2024   | Autómatas Finitos Deterministas (AFD). Tabla de transiciones. [Aula 02a](aulas/Aula02a.pdf){:target="_blank"} [Aula 02b](aulas/Aula02b.pdf){:target="_blank"} | Hopcroft-Ullman, secciones 2.1, 2.2 
 
 
 # Proyectos
