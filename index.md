@@ -47,6 +47,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
 03       | 10.07.2024   | Operaciones con lenguajes. Expresiones regulares (*regexp*). Abreviaturas para regexp. [Aula 03a](aulas/Aula03a.pdf){:target="_blank"} [Aula 03b](aulas/Aula03b.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.1 <br/> [regextutorials.com](http://regextutorials.com/index.html){:target="_blank"}
 L1       | 15.07.2024   |  |  [Lab 01](labs/Lab01.pdf){:target="_blank"}
 04       | 17.07.2024   | Función de transición extendida. Configuraciones y derivaciones. | Hopcroft-Ullman, Sección 2.2 
+05       | 17.07.2024   | Autómatas Finitos No Deterministas (AFN). | Hopcroft-Ullman, Sección 2.3 
 
 
 # Proyectos
