@@ -48,6 +48,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
 L1       | 15.07.2024   |  |  [Lab 01](labs/Lab01.pdf){:target="_blank"}
 04       | 17.07.2024   | Función de transición extendida. Configuraciones y derivaciones. | Hopcroft-Ullman, Sección 2.2 
 05       | 24.07.2024   | Autómatas Finitos No Deterministas (AFN). | Hopcroft-Ullman, Sección 2.3 
+06       | 29.07.2024   |   | 
 
 
 # Proyectos
