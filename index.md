@@ -49,6 +49,7 @@ L1       | 15.07.2024   |  |  [Lab 01](labs/Lab01.pdf){:target="_blank"}
 04       | 17.07.2024   | Función de transición extendida. Configuraciones y derivaciones. [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 2.2 
 05       | 24.07.2024   | Autómatas Finitos No Deterministas (AFN). [Aula 05](aulas/Aula05.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 2.3 
 06       | 29.07.2024   |   | 
+L2       | 29.07.2024   |  |  [Lab 02](labs/Lab02.pdf){:target="_blank"}
 
 
 # Proyectos
