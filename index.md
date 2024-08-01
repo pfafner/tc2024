@@ -50,7 +50,17 @@ L1       | 15.07.2024   |  |  [Lab 01](labs/Lab01.pdf){:target="_blank"}
 05       | 24.07.2024   | Autómatas Finitos No Deterministas (AFN). [Aula 05](aulas/Aula05.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 2.3 
 06       | 29.07.2024   | Conversión de AFN a AFD: Construcción de subconjuntos. | Hopcroft-Ullman, Sección 2.5  
 L2       | 29.07.2024   |  |  [Lab 02](labs/Lab02.pdf){:target="_blank"}
-07       | 31.07.2024   | Conversión de Regexp a AFN: Algoritmo de Thompson. Algoritmo de Glushkov. | Hopcroft-Ullman, Sección 3.2 
+07       | 31.07.2024   | Conversión de Regexp a AFN: Algoritmo de Thompson. Algoritmo de Glushkov. [Aula 06a](aulas/Aula06a.pdf){:target="_blank"} [Aula 06b](aulas/Aula06b.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.2 
+
+
+# Lecturas complementarias
+### (Autores: T. Gálvez, B. Pojoy, P. Mejía y A. Reyes-Figueroa, 2022).
+<div id='id-notas'/>
+
+  **No.**  | **Fecha**    | **Tópicos**                                                                | **Recursos**
+  -------- | ------------ | -------------------------------------------------------------------------- |  -------------------------------------
+  01       | 31.07.2024   | Lectura 1 - Expresiones regulares y AFNs.                                  | [Lectura 1](lecturas/Lectura01.pdf){:target="_blank"}
+
 
 # Proyectos
 <div id='id-proyectos'/>
