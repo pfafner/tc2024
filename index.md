@@ -59,7 +59,7 @@ L2       | 29.07.2024   |  |  [Lab 02](labs/Lab02.pdf){:target="_blank"}
 
   **No.**  | **Fecha**    | **Tópicos**                                                                | **Recursos**
   -------- | ------------ | -------------------------------------------------------------------------- |  -------------------------------------
-  01       | 31.07.2024   | Lectura 1 - Expresiones regulares y AFNs.                                  | [Lectura 1](lecturas/Lectura01.pdf){:target="_blank"}
+  01       | 31.07.2024   | Lectura 1 - Expresiones regulares y AFNs.                                  | [Lectura 1](lectures/Lectura01.pdf){:target="_blank"}
 
 
 # Proyectos
