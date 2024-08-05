@@ -51,6 +51,7 @@ L1       | 15.07.2024   |  |  [Lab 01](labs/Lab01.pdf){:target="_blank"}
 06       | 29.07.2024   | Conversión de AFN a AFD: Construcción de subconjuntos. | Hopcroft-Ullman, Sección 2.5  
 L2       | 29.07.2024   |  |  [Lab 02](labs/Lab02.pdf){:target="_blank"}
 07       | 31.07.2024   | Conversión de Regexp a AFN: Algoritmo de Thompson. Algoritmo de Glushkov. [Aula 06a](aulas/Aula06a.pdf){:target="_blank"} [Aula 06b](aulas/Aula06b.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.2 
+L3       | 05.08.2024   |  |  [Lab 03](labs/Lab03.pdf){:target="_blank"}
 
 
 # Lecturas complementarias
