@@ -54,6 +54,7 @@ L2       | 29.07.2024   |  |  [Lab 02](labs/Lab02.pdf){:target="_blank"}
 L3       | 05.08.2024   |  |  [Lab 03](labs/Lab03.pdf){:target="_blank"}
 08       | 05.07.2024   | Conversión de AFN a Regexp: Algoritmo de Reducción. | Hopcroft-Ullman, Sección 3.2 
 09       | 07.07.2024   | Conversión de AFN a Regexp: Método de Arden. [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.4 
+10       | 14.07.2024   | Propiedades de decisión. Producto de autómatas.  | Hopcroft-Ullman, Sección 3.4 
 
 
 # Lecturas complementarias
