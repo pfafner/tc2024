@@ -52,9 +52,10 @@ L1       | 15.07.2024   |  |  [Lab 01](labs/Lab01.pdf){:target="_blank"}
 L2       | 29.07.2024   |  |  [Lab 02](labs/Lab02.pdf){:target="_blank"}
 07       | 31.07.2024   | Conversión de Regexp a AFN: Algoritmo de Thompson. Algoritmo de Glushkov. [Aula 06a](aulas/Aula06a.pdf){:target="_blank"} [Aula 06b](aulas/Aula06b.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.2 
 L3       | 05.08.2024   |  |  [Lab 03](labs/Lab03.pdf){:target="_blank"}
-08       | 05.07.2024   | Conversión de AFN a Regexp: Algoritmo de Reducción. | Hopcroft-Ullman, Sección 3.2 
-09       | 07.07.2024   | Conversión de AFN a Regexp: Método de Arden. [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.4 
-10       | 14.07.2024   | Propiedades de decisión. Producto de autómatas.  | Hopcroft-Ullman, Sección 3.4 
+08       | 05.08.2024   | Conversión de AFN a Regexp: Algoritmo de Reducción. | Hopcroft-Ullman, Sección 3.2 
+09       | 07.08.2024   | Conversión de AFN a Regexp: Método de Arden. [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.4 
+10       | 14.08.2024   | Propiedades de decisión. Producto de autómatas.  | Hopcroft-Ullman, Sección 3.4 
+L4       | 19.08.2024   |  |  [Lab 04](labs/Lab04.pdf){:target="_blank"}
 
 
 # Lecturas complementarias
