@@ -54,8 +54,10 @@ L2       | 29.07.2024   |  |  [Lab 02](labs/Lab02.pdf){:target="_blank"}
 L3       | 05.08.2024   |  |  [Lab 03](labs/Lab03.pdf){:target="_blank"}
 08       | 05.08.2024   | Conversión de AFN a Regexp: Algoritmo de Reducción. | Hopcroft-Ullman, Sección 3.2 
 09       | 07.08.2024   | Conversión de AFN a Regexp: Método de Arden. [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.4 
-10       | 14.08.2024   | Propiedades de decisión. Producto de autómatas.  | Hopcroft-Ullman, Sección 3.4 
+10       | 14.08.2024   | Propiedades de decisión. Producto de autómatas. [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.4 
+11       | 19.08.2024   | Minimización de autómatas: Algoritmo de Hopcroft. [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.4 
 L4       | 19.08.2024   |  |  [Lab 04](labs/Lab04.pdf){:target="_blank"}
+12       | 21.08.2024   | Lema de Bombeo (*Pumping Lemma*)Minimización  <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.4 
 
 
 # Lecturas complementarias
