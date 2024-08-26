@@ -58,6 +58,7 @@ L3       | 05.08.2024   |  |  [Lab 03](labs/Lab03.pdf){:target="_blank"}
 11       | 19.08.2024   | Minimización de autómatas: Algoritmo de Hopcroft. [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.4 
 L4       | 19.08.2024   |  |  [Lab 04](labs/Lab04.pdf){:target="_blank"}
 12       | 21.08.2024   | Lema de Bombeo (*Pumping Lemma*)Minimización  <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.4 
+C1       | 26.08.2024   | Corto 1.  |  [Corto 01](cortos/Corto01.pdf){:target="_blank"}
 
 
 # Lecturas complementarias
