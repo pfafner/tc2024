@@ -79,12 +79,20 @@ C1       | 26.08.2024   | Corto 1.  |  [Corto 01](cortos/Corto01.pdf){:target="_
 
 En el curso se desarrollarán tres proyectos.
 
+## Primer Proyecto 
+
   **No.**  | **Fecha**    | **Tópicos**                                                     | **Recursos**
   -------- | ------------ | --------------------------------------------------------------- |  ---------------------
   1        | 14.08.2024   | Proyecto 1 - Algoritmos sobre AFDs, AFNs y *regexp*.            | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"} <br/> **Fecha de Entrega: 16-20 septiembre.**
   2        | 16.09.2024   | Presentación y revisión del proyecto.
   3        | 20.09.2024   | Entrega del reporte final.
 
+## Horarios presentación Primer Proyecto
+
+**Hora** | **Equipo**   
+-------- | ----------------------------
+.        | 
+  
   
 # Referencias
 <div id='id-ref'/> 
