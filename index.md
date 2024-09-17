@@ -99,8 +99,7 @@ En el curso se desarrollarán tres proyectos.
 19:00-19:15  | Autómatas Unidos  | G-205
 19:15-19:30  | Grupo 9           | G-205
 19:30-19:45  | Grupo 3           | G-205
-19:45-20:00  | Grupo 8           | G-205
-
+19:45-20:00  | Grupo 8           | G-205 
   
   
 # Referencias
