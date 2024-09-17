@@ -84,22 +84,22 @@ En el curso se desarrollarán tres proyectos.
   **No.**  | **Fecha**    | **Tópicos**                                                     | **Recursos**
   -------- | ------------ | --------------------------------------------------------------- |  ---------------------
   1        | 14.08.2024   | Proyecto 1 - Algoritmos sobre AFDs, AFNs y *regexp*.            | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"} <br/> **Fecha de Entrega: 16-20 septiembre.**
-  2        | 16.09.2024   | Presentación y revisión del proyecto.
+  2        | 18.09.2024   | Presentación y revisión del proyecto.
   3        | 20.09.2024   | Entrega del reporte final.
 
 ## Horarios presentación Primer Proyecto
 
 **Hora**     | **Equipo**   
 ------------ | ----------------------------
-17:20-17:35  | 
-17:35-17:50  | 
-17:50-18:05  | 
-18:10-18:25  | 
-18:25-18:40  | 
-19:00-19:15  | 
-19:15-19:30  | 
-19:30-19:45  | 
-19:45-20:00  | 
+17:20-17:35  | Grupo 4
+17:35-17:50  | Triple Impacto
+17:50-18:05  | Los Chepitos
+18:10-18:25  | Automata Masters
+18:40-18:55  | Grupo 6 
+19:00-19:15  | Autómatas Unidos
+19:15-19:30  | Grupo 9
+19:30-19:45  | Grupo 3
+19:45-20:00  | Grupo 8
 
   
   
