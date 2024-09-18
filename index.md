@@ -91,11 +91,11 @@ En el curso se desarrollarán tres proyectos.
 
 **Hora**     | **Equipo**        | Lugar
 ------------ | ----------------- | ---------
-17:20-17:35  | Grupo 4           | 
-17:35-17:50  | Triple Impacto    | 
-17:50-18:05  | Los Chepitos      | 
-18:10-18:25  | Automata Masters  | 
-18:40-18:55  | Grupo 6           | 
+17:20-17:35  | Grupo 4           | Depto. Matemática I-106 
+17:35-17:50  | Triple Impacto    | Depto. Matemática I-106 
+17:50-18:05  | Los Chepitos      | Depto. Matemática I-106 
+18:10-18:25  | Automata Masters  | Depto. Matemática I-106 
+18:40-18:55  | Grupo 6           | Depto. Matemática I-106 
 19:00-19:15  | Autómatas Unidos  | G-205
 19:15-19:30  | Grupo 9           | G-205
 19:30-19:45  | Grupo 3           | G-205
