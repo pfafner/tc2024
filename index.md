@@ -60,7 +60,8 @@ L4       | 19.08.2024   |  |  [Lab 04](labs/Lab04.pdf){:target="_blank"}
 12       | 21.08.2024   | Lema de Bombeo (*Pumping Lemma*). <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.4 
 C1       | 26.08.2024   | Corto 1.  |  [Corto 01](cortos/Corto01.pdf){:target="_blank"}
 13       | 28.08.2024   | Gramáticas libres del contexto.  | Hopcroft-Ullman, Sección 4.1 
-15       | 18.09.2024   | Entrega proyecto 1.  | 
+14       | 18.09.2024   | Entrega proyecto 1.  | 
+15       | 23.09.2024   |   | 
 
 
 # Lecturas complementarias
