@@ -62,7 +62,7 @@ C1       | 26.08.2024   | Corto 1.  |  [Corto 01](cortos/Corto01.pdf){:target="_
 13       | 28.08.2024   | Gramáticas libres del contexto.  | Hopcroft-Ullman, Sección 4.1 
 14       | 18.09.2024   | Entrega proyecto 1.  | 
 15       | 23.09.2024   | Derivaciones *leftmost* y *rightmost*. <br/> |  
-16       | 23.09.2024   | Ambigüedad.  | 
+16       | 23.09.2024   | Ambigüedad. Remoción de ambgüedad. <br/> | 
 
 
 # Lecturas complementarias
