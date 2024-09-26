@@ -59,10 +59,10 @@ L3       | 05.08.2024   |  |  [Lab 03](labs/Lab03.pdf){:target="_blank"}
 L4       | 19.08.2024   |  |  [Lab 04](labs/Lab04.pdf){:target="_blank"}
 12       | 21.08.2024   | Lema de Bombeo (*Pumping Lemma*). <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 3.4 
 C1       | 26.08.2024   | Corto 1.  |  [Corto 01](cortos/Corto01.pdf){:target="_blank"}
-13       | 28.08.2024   | Gramáticas libres del contexto.  | Hopcroft-Ullman, Sección 4.1 
+13       | 28.08.2024   | Gramáticas libres del contexto. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 4.1 
 14       | 18.09.2024   | Entrega proyecto 1.  | 
-15       | 23.09.2024   | Derivaciones *leftmost* y *rightmost*. <br/> |  
-16       | 23.09.2024   | Ambigüedad. Remoción de ambgüedad. <br/> | 
+15       | 23.09.2024   | Derivaciones *leftmost* y *rightmost*. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} |  
+16       | 23.09.2024   | Ambigüedad. Remoción de ambgüedad. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | 
 
 
 # Lecturas complementarias
