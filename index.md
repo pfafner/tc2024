@@ -64,6 +64,7 @@ C1       | 26.08.2024   | Corto 1.  |  [Corto 01](cortos/Corto01.pdf){:target="_
 15       | 23.09.2024   | Derivaciones *leftmost* y *rightmost*. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} |  
 16       | 23.09.2024   | Ambigüedad. Remoción de ambgüedad. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | 
 17       | 25.09.2024   | Simplificación de gramáticas. <br/>  | 
+18       | 30.09.2024   |  |  
 
 
 # Lecturas complementarias
