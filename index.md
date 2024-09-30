@@ -65,6 +65,7 @@ C1       | 26.08.2024   | Corto 1.  |  [Corto 01](cortos/Corto01.pdf){:target="_
 16       | 23.09.2024   | Ambigüedad. Remoción de ambgüedad. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | Hopcroft-Ullman
 17       | 25.09.2024   | Simplificación de gramáticas. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} | Hopcroft-Ullman <br/> [Ejemplo 1](aulas/Ejemplo1_Reduccion.txt){:target="_blank"}
 18       | 30.09.2024   | Ejemplos de simplificación. Forma Normal de Chomsky. [Aula 16](aulas/Aula16.pdf){:target="_blank"} |  
+L5       | 30.09.2024   |  |  [Lab 05](labs/Lab05.pdf){:target="_blank"}
 
 
 # Lecturas complementarias
