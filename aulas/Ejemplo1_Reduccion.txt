@@ -1,0 +1,239 @@
+Alan Reyes-Figueroa		
+Teoría de la Computación 2024
+23.09.2024
+
+Ejemplo de reducción de una gramática.
+(Algoritmo de simplificación)
+
+Ejemplo: Reducir la siguiente gramática
+
+	S  ->  ACD
+	A  ->  a
+	B  ->  e
+	C  ->  ED | e
+	D  ->  BC | e
+	E  ->  b
+
+
+SOLUCIÓN:
+
+1. DEL-e	
+
+	Producciones epsilon:  B -> e, C -> e, D -> e 
+
+	Remover B -> e:
+
+	S  ->  ACD
+	A  ->  a
+	C  ->  ED | e
+	D  ->  BC | C |	e
+	E  ->  b
+
+	Remover C -> e:
+
+	S  ->  ACD | AD 
+	A  ->  a
+	C  ->  ED
+	D  ->  BC | C |	B | e
+	E  ->  b
+
+	Remover D -> e:
+
+	S  ->  ACD | AD | AC | A 
+	A  ->  a
+	C  ->  ED | E 
+	D  ->  BC | C |	B 
+	E  ->  b
+
+
+
+2. UNIT
+
+	Producciones unarias:  S -> A, C -> E, D -> C, D -> B
+
+	Remover S -> A:     S -> A -> a
+
+	S  ->  ACD | AD | AC | a 
+	A  ->  a
+	C  ->  ED | E 
+	D  ->  BC | C |	B 
+	E  ->  b
+
+	Remover C -> E:     C -> E -> b
+
+	S  ->  ACD | AD | AC | a 
+	A  ->  a
+	C  ->  ED | b 
+	D  ->  BC | C |	B 
+	E  ->  b
+
+	Remover D -> C:     D -> C -> ED | b
+
+	S  ->  ACD | AD | AC | a 
+	A  ->  a
+	C  ->  ED | b 
+	D  ->  BC | B | ED | b
+	E  ->  b
+
+	Remover D -> B:     D -> B -> no hay 
+
+	S  ->  ACD | AD | AC | a 
+	A  ->  a
+	C  ->  ED | b 
+	D  ->  BC | ED | b
+	E  ->  b
+
+
+
+3. USELESS / TERM
+
+	Símbolos que no llegan a termino:  B  
+
+	S  ->  ACD | AD | AC | a 
+	A  ->  a
+	C  ->  ED | b 
+	D  ->  ED | b
+	E  ->  b
+
+
+	Símbolos no alcanzables:   No hay. No se remueve nada.
+
+
+La gramática queda:
+
+	S  ->  ACD | AD | AC | a 
+	A  ->  a
+	C  ->  ED | b 
+	D  ->  ED | b
+	E  ->  b
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	borramos B -> e
+
+	S  ->  ACD
+	A  ->  a
+	C  ->  ED | e
+	D  ->  BC | C | e
+	E  ->  b  
+
+	borramos C -> e
+
+	S  ->  ACD | AD
+	A  ->  a
+	C  ->  ED
+	D  ->  BC | B | C | e 
+	E  ->  b
+
+	borramos D -> e
+
+	S  ->  ACD | AC | AD | A
+	A  ->  a
+	C  ->  ED | E 
+	D  ->  BC | B | C 
+	E  ->  b
+
+
+2. UNIT
+
+	Producciones unarias:  S -> A, C -> E, D -> B, D -> C
+
+	Borramos S -> A -> a 
+
+	S  ->  ACD | AC | AD | a
+	A  ->  a
+	C  ->  ED | E 
+	D  ->  BC | B | C 
+	E  ->  b
+
+	Borramos C -> E -> b
+
+	S  ->  ACD | AC | AD | a
+	A  ->  a
+	C  ->  ED | b 
+	D  ->  BC | B | C 
+	E  ->  b
+
+	Borramos D -> B ->  No hay
+
+	Borramos D -> C -> ED
+	              C -> b
+
+
+	S  ->  ACD | AC | AD | a
+	A  ->  a
+	C  ->  ED | b 							
+	D  ->  BC | ED | b
+	E  ->  b
+
+
+	S      A  C  D  a     E   b   B  
+
+3. USELESS
+
+	Todos los símbolos son alcanzables.
+
+	a  b   S   A   C  D   E       (B no lleva a terminales)
+
+	Remover  D -> BC
+
+	S  ->  ACD | AC | AD | a
+	A  ->  a
+	C  ->  ED | b 							
+	D  ->  ED | b
+	E  ->  b
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
