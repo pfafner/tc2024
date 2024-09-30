@@ -61,10 +61,10 @@ L4       | 19.08.2024   |  |  [Lab 04](labs/Lab04.pdf){:target="_blank"}
 C1       | 26.08.2024   | Corto 1.  |  [Corto 01](cortos/Corto01.pdf){:target="_blank"}
 13       | 28.08.2024   | Gramáticas libres del contexto. <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | Hopcroft-Ullman, Sección 4.1 
 14       | 18.09.2024   | Entrega proyecto 1.  | 
-15       | 23.09.2024   | Derivaciones *leftmost* y *rightmost*. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} |  
-16       | 23.09.2024   | Ambigüedad. Remoción de ambgüedad. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | 
-17       | 25.09.2024   | Simplificación de gramáticas. <br/>  | 
-18       | 30.09.2024   |  |  
+15       | 23.09.2024   | Derivaciones *leftmost* y *rightmost*. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Hopcroft-Ullman 
+16       | 23.09.2024   | Ambigüedad. Remoción de ambgüedad. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | Hopcroft-Ullman
+17       | 25.09.2024   | Simplificación de gramáticas. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} | Hopcroft-Ullman <br/> [Ejemplo 1](aulas/Ejemplo1_Reduccion.txt){:target="_blank"}
+18       | 30.09.2024   | Ejemplos de simplificación. Forma Normal de Chomsky.  |  
 
 
 # Lecturas complementarias
