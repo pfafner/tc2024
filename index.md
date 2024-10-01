@@ -105,7 +105,15 @@ En el curso se desarrollarán tres proyectos.
 19:15-19:30  | Grupo 9           | G-205
 19:30-19:45  | Grupo 3           | G-205
 19:45-20:00  | Grupo 8           | G-205 
-  
+
+## Segundo Proyecto 
+
+**No.**  | **Fecha**    | **Tópicos**                                                     | **Recursos**
+-------- | ------------ | --------------------------------------------------------------- |  ---------------------
+1        | 30.09.2024   | Proyecto 2 - Algoritmo CYK para gramáticas.                     | [Proyecto 2](proyectos/Proyecto2.pdf){:target="_blank"} <br/> **Fecha de Entrega: lunes 28 de octubre.**
+2        | 28.10.2024   | Presentación y revisión del proyecto.
+3        | 31.10.2024   | Entrega del reporte final.
+
   
 # Referencias
 <div id='id-ref'/> 
