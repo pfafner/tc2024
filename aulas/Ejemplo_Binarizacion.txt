@@ -1,0 +1,61 @@
+Alan Reyes-Figueroa		
+Teoría de la Computación 2024
+30.09.2024
+
+Ejemplo de binarización de reglas.
+(Convertir lado derecho a 2 variables o a 1 terminal)
+
+Ejemplo: Binarizar la siguiente gramática
+
+(1) Cuando el lado derecho es una cadena de variables
+	
+	A -> XYZW			XYZ W  = BW
+					     B = XYZ
+	
+	A -> BW
+	B -> XYZ			 XY Z  = CZ   
+					     C = XY
+	
+	C -> XY
+
+	queda:
+
+	A -> BW
+	B -> CZ
+	C -> XY
+
+	----------------------------------------------
+
+
+
+(2) Cuando el lado derecho contiene terminales
+
+	Sustituimos cada terminal por una variable no usada
+
+	A -> xYzW          
+
+	Convertimos x a <X>, Convertimos z a <Z>, y añadimos las
+	producciones
+	<X>  ->  x
+	<Z>  ->  z
+
+	Así:
+
+	A   -> XYZW
+	<X> ->  x
+	<Z> ->  z
+
+	Ahora usamos el paso (1) para secuenciar la binarización.
+
+	A   -> BW
+	B   -> C<Z>
+	C   -> <X>Y
+	<X> -> x
+	<Z> -> z
+
+
+
+
+
+
+
