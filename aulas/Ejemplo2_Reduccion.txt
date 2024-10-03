@@ -1,0 +1,134 @@
+Alan Reyes-Figueroa		
+Teoría de la Computación 2024
+23.09.2024
+
+Ejemplo de reducción de una gramática.
+(Algoritmo de simplificación)
+
+Ejemplo: Reducir la siguiente gramática
+
+	S  ->  AB | ACA | ab
+	A  ->  aAa | B | CD
+	B  ->  bB | bA
+	C  ->  cC | e
+	D  ->  aDc | CC | ABb
+
+
+SOLUCIÓN:
+
+
+1. DEL-e	
+
+	Remover  C -> e: 
+
+	S  ->  AB | ACA | ab | AA
+	A  ->  aAa | B | CD | D
+	B  ->  bB | bA
+	C  ->  cC | c 
+	D  ->  aDc | CC | ABb | C | e
+
+
+	Remover  D -> e: 
+
+	S  ->  AB | ACA | ab | AA
+	A  ->  aAa | B | CD | D | C | e
+	B  ->  bB | bA
+	C  ->  cC | c 
+	D  ->  aDc | CC | ABb | C 
+
+
+	Remover  A -> e: 
+
+	S  ->  AB | ACA | ab | AA | B | AC | CA | A | C | e
+	A  ->  aAa | B | CD | D | C | aa 
+	B  ->  bB | bA | b 
+	C  ->  cC | c 
+	D  ->  aDc | CC | ABb | C | Bb 
+
+
+2. UNIT
+
+	Producciones unarias:
+	S -> A | B | C
+	A -> B | C | D 
+	D -> C
+
+	Remover D -> C:
+
+	S  ->  AB | ACA | ab | AA | B | AC | CA | A | C | e
+	A  ->  aAa | B | CD | D | C | aa 
+	B  ->  bB | bA | b 
+	C  ->  cC | c 
+	D  ->  aDc | CC | ABb | Bb | cC | c
+
+
+	Remover A -> B:
+
+	S  ->  AB | ACA | ab | AA | B | AC | CA | A | C | e
+	A  ->  aAa | CD | D | C | aa | bB | bA | b
+	B  ->  bB | bA | b 
+	C  ->  cC | c 
+	D  ->  aDc | CC | ABb | Bb | cC | c
+
+
+	Remover A -> C:
+
+	S  ->  AB | ACA | ab | AA | B | AC | CA | A | C | e
+	A  ->  aAa | CD | D | aa | bB | bA | b | cC | c
+	B  ->  bB | bA | b 
+	C  ->  cC | c 
+	D  ->  aDc | CC | ABb | Bb | cC | c
+
+
+	Remover A -> D:
+
+	S  ->  AB | ACA | ab | AA | B | AC | CA | A | C | e
+	A  ->  aAa | CD | aa | bB | bA | b | cC | c | aDc | CC | ABb 
+	B  ->  bB | bA | b 
+	C  ->  cC | c 
+	D  ->  aDc | CC | ABb | Bb | cC | c
+
+
+	Remover S -> B:
+
+	S  ->  AB | ACA | ab | AA | AC | CA | A | C | e | bB | bA | b 
+	A  ->  aAa | CD | aa | bB | bA | b | cC | c | aDc | CC | ABb 
+	B  ->  bB | bA | b 
+	C  ->  cC | c 
+	D  ->  aDc | CC | ABb | Bb | cC | c
+
+
+	Remover S -> C:
+
+	S  ->  AB | ACA | ab | AA | AC | CA | A | e | bB | bA | b | cC | c 
+	A  ->  aAa | CD | aa | bB | bA | b | cC | c | aDc | CC | ABb 
+	B  ->  bB | bA | b 
+	C  ->  cC | c 
+	D  ->  aDc | CC | ABb | Bb | cC | c
+
+
+	Remover S -> A:
+
+	S  ->  AB | ACA | ab | AA | AC | CA | e | bB | bA | b | cC | c | aDc | CC | ABb 
+	A  ->  aAa | CD | aa | bB | bA | b | cC | c | aDc | CC | ABb 
+	B  ->  bB | bA | b 
+	C  ->  cC | c 
+	D  ->  aDc | CC | ABb | Bb | cC | c
+
+
+3. USELESS
+
+	No hay símbolos que conduzcan a no terminales.
+
+	Símbolos inalcanzables, no hay.
+
+
+	Finalmente la gramática queda así:
+
+	S  ->  AB | ACA | ab | AA | AC | CA | e | bB | bA | b | cC | c | aDc | CC | ABb 
+	A  ->  aAa | CD | aa | bB | bA | b | cC | c | aDc | CC | ABb 
+	B  ->  bB | bA | b 
+	C  ->  cC | c 
+	D  ->  aDc | CC | ABb | Bb | cC | c
+
+
