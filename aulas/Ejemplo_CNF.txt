@@ -1,0 +1,93 @@
+Alan Reyes-Figueroa		
+Teoría de la Computación 2024
+30.09.2024
+
+Ejemplo de conversión a CNF (Forma Normal de Chomsky)
+
+Ejemplo: Convertir la siguiente gramática
+
+	S  ->  aSa | bSb | a | b | e
+
+1. START (sustituir por otro símbolo inicial)
+
+	S0 ->  S
+
+2. BIN   (llevar reglas a 2 variables ó 1 terminal)
+
+	S0 ->  S
+	S  ->  ASA | BSB | a | b | e
+	A  ->  a
+	B  ->  b
+
+	S0 ->  S
+	S  ->  UA | VB | a | b | e
+	U  ->  AS
+	V  ->  BS
+	A  ->  a
+	B  ->  b
+
+3. DEL-e
+	
+	Borramos  S -> e
+
+	S0 ->  S | e
+	S  ->  UA | VB | a | b 
+	U  ->  AS | A
+	V  ->  BS | B 
+	A  ->  a
+	B  ->  b
+
+4. UNIT
+
+	Producciones unarias:  S0 -> S, U -> A, V -> B
+
+	Borramos S0 -> S
+
+	S0 ->  UA | VB | a | b | e
+	S  ->  UA | VB | a | b 
+	U  ->  AS | A
+	V  ->  BS | B 
+	A  ->  a
+	B  ->  b
+
+	Borramos U -> A
+
+	S0 ->  UA | VB | a | b | e
+	S  ->  UA | VB | a | b 
+	U  ->  AS | a
+	V  ->  BS | B 
+	A  ->  a
+	B  ->  b
+
+	Borramos V -> B
+
+	S0 ->  UA | VB | a | b | e
+	S  ->  UA | VB | a | b 
+	U  ->  AS | a
+	V  ->  BS | b 
+	A  ->  a
+	B  ->  b
+
+
+5. USELESS
+
+	(alcanzables)   S0  U  A  V  B  a  b  e  S        No hay
+
+	(no terminan)   a  b  e  S0  S  U  V  A  B        No hay
+
+
+	S0 ->  UA | VB | a | b | e
+	S  ->  UA | VB | a | b 
+	U  ->  AS | a
+	V  ->  BS | b 
+	A  ->  a
+	B  ->  b
+
+
+
+
+
+
+
+
+
