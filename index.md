@@ -64,7 +64,7 @@ C1       | 26.08.2024   | Corto 1.  |  [Corto 01](cortos/Corto01.pdf){:target="_
 15       | 23.09.2024   | Derivaciones *leftmost* y *rightmost*. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} | Hopcroft-Ullman 
 16       | 23.09.2024   | Ambigüedad. Remoción de ambgüedad. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | Hopcroft-Ullman
 17       | 25.09.2024   | Simplificación de gramáticas. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} | Hopcroft-Ullman <br/> [Ejemplo 1](aulas/Ejemplo1_Reduccion.txt){:target="_blank"}
-18       | 30.09.2024   | Ejemplos de simplificación. Forma Normal de Chomsky. [Aula 16](aulas/Aula16.pdf){:target="_blank"} |  
+18       | 30.09.2024   | Ejemplos de simplificación. Forma Normal de Chomsky. [Aula 16](aulas/Aula16.pdf){:target="_blank"} | [Ejemplo 2](aulas/Ejemplo2_Reduccion.txt){:target="_blank"} <br/> [Ejemplo Binarización](aulas/Ejemplo2_Binarizacion.txt){:target="_blank"} <br/> [Ejemplo Chomsky](aulas/Ejemplo_CNF.txt){:target="_blank"} 
 L5       | 30.09.2024   |  |  [Lab 05](labs/Lab05.pdf){:target="_blank"}
 19       | 02.10.2024   | Autómatas de Pila (PDA). [Aula 17](aulas/Aula17.pdf){:target="_blank"} |  
 
