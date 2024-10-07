@@ -93,19 +93,6 @@ En el curso se desarrollarán tres proyectos.
   2        | 18.09.2024   | Presentación y revisión del proyecto.
   3        | 20.09.2024   | Entrega del reporte final.
 
-## Horarios presentación Primer Proyecto
-
-**Hora**     | **Equipo**        | Lugar
------------- | ----------------- | ---------
-17:20-17:35  | Grupo 4           | H-204
-17:35-17:50  | Triple Impacto    | H-204
-17:50-18:05  | Los Chepitos      | H-204
-18:10-18:25  | Automata Masters  | H-204
-18:40-18:55  | Grupo 6           | H-204
-19:00-19:15  | Autómatas Unidos  | G-205
-19:15-19:30  | Grupo 9           | G-205
-19:30-19:45  | Grupo 3           | G-205
-19:45-20:00  | Grupo 8           | G-205 
 
 ## Segundo Proyecto 
 
@@ -115,7 +102,13 @@ En el curso se desarrollarán tres proyectos.
 2        | 28.10.2024   | Presentación y revisión del proyecto.
 3        | 31.10.2024   | Entrega del reporte final.
 
-  
+## Horarios presentación Segundo Proyecto
+
+**Hora**     | **Equipo**        | Lugar
+------------ | ----------------- | ---------
+.            |                   | 
+
+
 # Referencias
 <div id='id-ref'/> 
 
