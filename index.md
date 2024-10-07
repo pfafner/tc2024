@@ -67,6 +67,7 @@ C1       | 26.08.2024   | Corto 1.  |  [Corto 01](cortos/Corto01.pdf){:target="_
 18       | 30.09.2024   | Ejemplos de simplificación. Forma Normal de Chomsky. [Aula 16](aulas/Aula16.pdf){:target="_blank"} | [Ejemplo 2](aulas/Ejemplo2_Reduccion.txt){:target="_blank"} <br/> [Ejemplo Binarización](aulas/Ejemplo2_Binarizacion.txt){:target="_blank"} <br/> [Ejemplo Chomsky](aulas/Ejemplo_CNF.txt){:target="_blank"} 
 L5       | 30.09.2024   |  |  [Lab 05](labs/Lab05.pdf){:target="_blank"}
 19       | 02.10.2024   | Autómatas de Pila (PDA). [Aula 17](aulas/Aula17.pdf){:target="_blank"} |  
+20       |              |  |  
 
 
 # Lecturas complementarias
