@@ -67,12 +67,12 @@ C1       | 26.08.2024   | Corto 1.  |  [Corto 01](cortos/Corto01.pdf){:target="_
 18       | 30.09.2024   | Ejemplos de simplificación. Forma Normal de Chomsky. [Aula 16](aulas/Aula16.pdf){:target="_blank"} | [Ejemplo 2](aulas/Ejemplo2_Reduccion.txt){:target="_blank"} <br/> [Ejemplo Binarización](aulas/Ejemplo2_Binarizacion.txt){:target="_blank"} <br/> [Ejemplo Chomsky](aulas/Ejemplo_CNF.txt){:target="_blank"} 
 L5       | 30.09.2024   |  |  [Lab 05](labs/Lab05.pdf){:target="_blank"}
 19       | 02.10.2024   | Autómatas de Pila (PDA). [Aula 17](aulas/Aula17.pdf){:target="_blank"} |  
-20       | 07.10.2024   | Ejemplos de autómatas de Pila. [Aula 18](aulas/Aula18.pdf){:target="_blank"} |  
-21       | 09.10.2024   | Equivalencia entre CFG y PDAs. [Aula 19](aulas/Aula19.pdf){:target="_blank"} |  
+20       | 07.10.2024   | Ejemplos de autómatas de Pila. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} |  
+21       | 09.10.2024   | Equivalencia entre CFG y PDAs. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} |  
 L6       | 09.10.2024   |  |  [Lab 06](labs/Lab06.pdf){:target="_blank"}
 22       | 14.10.2024   | Lema de Bombeo (*Pumping Lemma*) para gramáticas libres. [Aula 20](aulas/Aula20.pdf){:target="_blank"} |  
-23       | 14.10.2024   | Máquinas de Turing. <br/>  |   
-24       | 16.10.2024   | Ejemplos de máquinas de Turing. <br/> |   
+23       | 14.10.2024   | Máquinas de Turing. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} |   
+24       | 16.10.2024   | Ejemplos de máquinas de Turing. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} |   
 
 
 # Lecturas complementarias
