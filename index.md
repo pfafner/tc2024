@@ -72,6 +72,7 @@ L5       | 30.09.2024   |  |  [Lab 05](labs/Lab05.pdf){:target="_blank"}
 L6       | 09.10.2024   |  |  [Lab 06](labs/Lab06.pdf){:target="_blank"}
 22       | 14.10.2024   | Lema de Bombeo (*Pumping Lemma*) para gramáticas libres. [Aula 20](aulas/Aula20.pdf){:target="_blank"} |  
 23       | 14.10.2024   | Máquinas de Turing. <br/>  |   
+24       | 16.10.2024   | Ejemplos de máquinas de Turing. <br/> |   
 
 
 # Lecturas complementarias
