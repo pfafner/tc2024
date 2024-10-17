@@ -79,11 +79,12 @@ L6       | 09.10.2024   |  |  [Lab 06](labs/Lab06.pdf){:target="_blank"}
 ### (Autores: T. Gálvez, B. Pojoy, P. Mejía y A. Reyes-Figueroa, 2022).
 <div id='id-notas'/>
 
-**No.**  | **Fecha**    | **Tópicos**                                                          | **Recursos**
--------- | ------------ | -------------------------------------------------------------------- |  -------------------------------------
-01       | 31.07.2024   | Lectura 1 - Expresiones regulares y AFNs.                            | [Lectura 1](lectures/Lectura01.pdf){:target="_blank"}
-02       | 31.07.2024   | Lectura 2 - Conversión de AFNs as AFDs.                              | [Lectura 2](lectures/Lectura02.pdf){:target="_blank"}
-03       | 19.08.2024   | Lectura 3 - Algoritmo de minimización.                               | [Lectura 3](lectures/Lectura03.pdf){:target="_blank"}
+**No.**  | **Fecha**    | **Tópicos**                                             | **Recursos**
+-------- | ------------ | ------------------------------------------------------- |  -------------------------------------
+01       | 31.07.2024   | Lectura 1 - Expresiones regulares y AFNs.               | [Lectura 1](lectures/Lectura01.pdf){:target="_blank"}
+02       | 31.07.2024   | Lectura 2 - Conversión de AFNs as AFDs.                 | [Lectura 2](lectures/Lectura02.pdf){:target="_blank"}
+03       | 19.08.2024   | Lectura 3 - Algoritmo de minimización.                  | [Lectura 3](lectures/Lectura03.pdf){:target="_blank"}
+04       | 16.10.2024   | Lectura 4 - Máquinas de Turing.                         | [Lectura 4](lectures/Lectura04.pdf){:target="_blank"}
 
 
 # Proyectos
