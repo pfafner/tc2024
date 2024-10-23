@@ -118,6 +118,14 @@ En el curso se desarrollarán tres proyectos.
 ------------ | ----------------- | ---------
 .            |                   | 
 
+## Tercer Proyecto 
+
+**No.**  | **Fecha**    | **Tópicos**                                                     | **Recursos**
+-------- | ------------ | --------------------------------------------------------------- |  ---------------------
+1        | 23.10.2024   | Proyecto 3 - Máquinas de Turing.                                | [Proyecto 3](proyectos/Proyecto3.pdf)
+2        | 18 al 22.11.2024   | Presentación y revisión del proyecto.
+3        | 24.11.2024   | Entrega del reporte final.
+
 
 # Referencias
 <div id='id-ref'/> 
