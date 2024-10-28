@@ -75,6 +75,7 @@ L6       | 09.10.2024   |  |  [Lab 06](labs/Lab06.pdf){:target="_blank"}
 24       | 16.10.2024   | Ejemplos de máquinas de Turing. <br/> [Aula 22](aulas/Aula22.pdf){:target="_blank"} [Aula 22b](aulas/Aula22b.pdf){:target="_blank"} |  
 25       | 21.10.2024   | Máquinas de Turing II. <br/> [Aula 23](aulas/Aula23.pdf){:target="_blank"} |   
 L7       | 23.10.2024   |  |  [Lab 07](labs/Lab07.pdf){:target="_blank"}
+26       | 28.10.2024   | Entrega proyecto 2.  | 
 
 
 
