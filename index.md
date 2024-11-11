@@ -114,20 +114,7 @@ En el curso se desarrollarán tres proyectos.
 1        | 30.09.2024   | Proyecto 2 - Algoritmo CYK para gramáticas.                     | [Proyecto 2](proyectos/Proyecto2.pdf){:target="_blank"} <br/> **Fecha de Entrega: lunes 28 de octubre.**
 2        | 28.10.2024   | Presentación y revisión del proyecto.
 3        | 31.10.2024   | Entrega del reporte final.
-
-## Horarios presentación Segundo Proyecto (G-205)
-
-**Hora**     | **Equipo**        
------------- | ----------------- 
-5:20         | Equipo 9                  
-5:35         | Equipo 3                  
-5:50         | Triple Impacto
-6:05         | Autómatas Unidos                  
-6:20         | Automata Masters                  
-6:35         | Equipo 4                  
-6:50         | Los Chepitos                  
-7:05         | Equipo 8                  
-7:20         | Equipo 6                  
+              
 
 ## Tercer Proyecto 
 
