@@ -77,8 +77,11 @@ L6       | 09.10.2024   |  |  [Lab 06](labs/Lab06.pdf){:target="_blank"}
 L7       | 23.10.2024   |  |  [Lab 07](labs/Lab07.pdf){:target="_blank"}
 26       | 28.10.2024   | Entrega proyecto 2.  | 
 27       | 30.10.2024   | Extensiones de máquinas de Turing. <br/> [Aula 24](aulas/Aula24.pdf){:target="_blank"} |   
-28       | 04.11.2024   | Análisis de algoritmos. Notación Big O, Big Omega y Big Theta. [Aula 25](aulas/Aula25.pdf){:target="_blank"}  |   
+28       | 04.11.2024   | Análisis de algoritmos. Notación Big O, Big Omega y Big Theta. [Aula 25](aulas/Aula25.pdf){:target="_blank"} |   
 L8       | 06.11.2024   |  |  [Lab 08](labs/Lab08.pdf){:target="_blank"}
+29       | 11.11.2024   | Complejidad computacional. Clases P y NP. <br/> [Aula 26](aulas/Aula26.pdf){:target="_blank"} |   
+30       | 13.11.2024   | Máquinas de Turing universales. *Turing-completeness*. [Aula 27](aulas/Aula27.pdf){:target="_blank"} |   
+C1       | 13.01.2024   | Corto 2.  |  [Corto 01](cortos/Corto02.pdf){:target="_blank"}
 
 
 # Lecturas complementarias
