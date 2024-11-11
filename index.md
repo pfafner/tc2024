@@ -81,7 +81,7 @@ L7       | 23.10.2024   |  |  [Lab 07](labs/Lab07.pdf){:target="_blank"}
 L8       | 06.11.2024   |  |  [Lab 08](labs/Lab08.pdf){:target="_blank"}
 29       | 11.11.2024   | Complejidad computacional. Clases P y NP. <br/> [Aula 26](aulas/Aula26.pdf){:target="_blank"} |   
 30       | 13.11.2024   | Máquinas de Turing universales. *Turing-completeness*. [Aula 27](aulas/Aula27.pdf){:target="_blank"} |   
-C1       | 13.01.2024   | Corto 2.  |  [Corto 01](cortos/Corto02.pdf){:target="_blank"}
+C1       | 13.01.2024   | Corto 2.  |  [Corto 02](cortos/Corto02.pdf){:target="_blank"}
 
 
 # Lecturas complementarias
