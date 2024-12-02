@@ -130,17 +130,17 @@ En el curso se desarrollarán tres proyectos.
 
 ## Horarios de presentación Tercer Proyecto 
 
-**Grupo**  | **Fecha**    | **Hora**   | **Integrantes**                               
----------- | ------------ | ---------- | -----------------------------------------------
- Automata Masters   | Lunes 18     | 16:00      | Bianca Calderón, Daniel Dubón, Oscar Escribá
- Grupo 8   | Lunes 18     | 16:30      | Nicolle Gordillo, Andre Marroquín, Sofía Velasquez 
- Autómatas Unidos   | Lunes 18     | 17:00      | Sergio Orellana, Andy Fuentes, Flavio Galán
- Grupo 6   | Martes 19     | 15:30      | Sebastián Huertas, Hanzel López, Josué Marroquín 
- Los Ksimeritos   | Martes 19     | 18:00      | Nahomy Castro, Gerson Ramírez, Diego Valenzuela, Xavier López 
- Grupo 9  | Miércoles 20 | 15:30      | Edwin Ortega, Esteban Zambrano, André Jo 
- Triple Impacto  | Miércoles 20 | 17:00      | Irving Acosta, Diego Duarte, Rodrigo Marchena 
- Los Chepitos  | Miércoles 20 | 18:00      | Fabiola Contreras, José Prince, María Villafuerte
- Grupo 3  | Miércoles 20 | 19:30      | Gustavo Cruz, Brandon Reyes, Pedro Pablo Guzmán
+**Grupo**  | **Integrantes**                               
+---------- | -----------------------------------------------
+ Automata Masters   | Bianca Calderón, Daniel Dubón, Oscar Escribá
+ Grupo 8   | Nicolle Gordillo, Andre Marroquín, Sofía Velasquez 
+ Autómatas Unidos   | Sergio Orellana, Andy Fuentes, Flavio Galán
+ Grupo 6   | Sebastián Huertas, Hanzel López, Josué Marroquín 
+ Los Ksimeritos   | Nahomy Castro, Gerson Ramírez, Diego Valenzuela, Xavier López 
+ Grupo 9  | Edwin Ortega, Esteban Zambrano, André Jo 
+ Triple Impacto  | Irving Acosta, Diego Duarte, Rodrigo Marchena 
+ Los Chepitos  | Fabiola Contreras, José Prince, María Villafuerte
+ Grupo 3  | Gustavo Cruz, Brandon Reyes, Pedro Pablo Guzmán
 
 
 # Referencias
