@@ -128,21 +128,6 @@ En el curso se desarrollarán tres proyectos.
 3        | 24.11.2024   | Entrega del reporte final.
 
 
-## Horarios de presentación Tercer Proyecto 
-
-**Grupo**  | **Integrantes**                               
----------- | -----------------------------------------------
- Automata Masters   | Bianca Calderón, Daniel Dubón, Oscar Escribá
- Grupo 8   | Nicolle Gordillo, Andre Marroquín, Sofía Velasquez 
- Autómatas Unidos   | Sergio Orellana, Andy Fuentes, Flavio Galán
- Grupo 6   | Sebastián Huertas, Hanzel López, Josué Marroquín 
- Los Ksimeritos   | Nahomy Castro, Gerson Ramírez, Diego Valenzuela, Xavier López 
- Grupo 9  | Edwin Ortega, Esteban Zambrano, André Jo 
- Triple Impacto  | Irving Acosta, Diego Duarte, Rodrigo Marchena 
- Los Chepitos  | Fabiola Contreras, José Prince, María Villafuerte
- Grupo 3  | Gustavo Cruz, Brandon Reyes, Pedro Pablo Guzmán
-
-
 # Referencias
 <div id='id-ref'/> 
 
